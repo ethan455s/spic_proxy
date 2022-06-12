@@ -1,0 +1,17 @@
+[
+    {
+    "listen": "127.0.0.1:30888",
+	"remote": "101.35.221.193:64348",
+	"password": "vVFAHY77ug0UATF6V4bA6KXT1aL45CV14ABeI3uVFvPYExdY9rMbg0wPZp68EYXN35vc8oqLh3hdkruv+qlD0h42qH7BINfUsmiCoTSn/CHH6mKw+drsvgrZawvx/aQ+7jyEcg7C9AmjlnzEt8NvMjuY5l/QtO2XvyYC/s/LxX03J50rEgiToMphiFBFf/euka09BlVujTgkTjlTWd1x9UiZLGOBxhqmGe9CTTWUjFR3eRy5LkFngG2Qai22ziLIRClzM0sM1jov5bWqZDB0Sv+cuD/w68xGn6tSFVoYSWCJ4prpbARpVqwQ0QXjsd4fKmXJdo9b20dwB+dcTyjhAw=="
+    },
+    {
+    "listen": "127.0.0.1:40888",
+	"remote": "101.34.215.102:50888",
+	"password": "9qE3RHni5kByTiMWgtGElFm8a9otWHfgcZJucHOeP0Ho2UhDMzzYe93sp29RtPMdfCWznI4k3iBHxTBPO/9LbcwEhiw5rHYm7zXP8D3yBxfx+7vCMQXu9yqp1hAcH+cJ5b6MuUr+ehEOaqZlCLGiLsoKjROIo8fBdH3hfrIvY6A+h/kDw4FWUjoAkGCtIRSD38hhG8aqWyjVzXWABsuL/YnjbFVFX8C6Dasa0gtknRky11frK48MmNReyXiRtWmw9GI0r5V/TDi9ZrZCmxIC6ilN+pkBl/iTXSJTXMQV6bdUuEbQqGiuitz1WprOSRhnNtOFpA+f/Nsnv5ZQpeQe7Q=="
+    },
+    {
+    "listen": "127.0.0.1:60888",
+	"remote": "101.34.188.141:62601",
+	"password": "/x682OfhcuVOZfZ9YLfsQ6lKfGjpVwqUVZX+iNTVg2fNAiGsWXAMsl9kBGrMtHGjhUe+3YqTuPtvH3WtJD7GOA7gU7v9lwESp0QFw5xCsHiCAIcibWL1UHppvzMLHDEIoR2GQfl78XTzZio7tic6XDSOKYstWs4vjRuWY0i5nteZ3Lr4yxWiECwu0hfvqL2uW0sGGEBSVCDaK0aBydZNmBRY0AcmwrWqwMT08s9MEw8yFpqRDejHjKQ8fo+m48h560/FGYBeYXax/Ks58N7BNl1zkgM3pYmzGvfuyjCgPyidn3clRZsjbOLR26/Tf2767VFJEWvfNeRW6pCE5tk9CQ=="
+    }
+]
